@@ -94,3 +94,4 @@ C:\Users\84867\OneDrive\Máy tính\.NET MVC\WebMVC\obj\Debug\net9.0\refint\WebMV
 C:\Users\84867\OneDrive\Máy tính\.NET MVC\WebMVC\obj\Debug\net9.0\WebMVC.pdb
 C:\Users\84867\OneDrive\Máy tính\.NET MVC\WebMVC\obj\Debug\net9.0\WebMVC.genruntimeconfig.cache
 C:\Users\84867\OneDrive\Máy tính\.NET MVC\WebMVC\obj\Debug\net9.0\ref\WebMVC.dll
+C:\Users\84867\OneDrive\Máy tính\.NET MVC\WebMVC\obj\Debug\net9.0\WebMVC.sourcelink.json
